@@ -1,0 +1,113 @@
+.navbar{
+    background-color: #E3F2FD;
+}
+.navbar img{
+    width: 38px;
+    height: auto;
+}
+/* breadcum and toast section starts */
+.section2{
+ padding: 34px;
+ background-color: #FFFFFF;
+ position: relative;
+}
+.breadmenu{
+    width:100%
+}
+.toast1{
+    
+    position: absolute;
+    top: 37px;
+    left: 1058px;
+
+}
+.menu1{
+    padding: 11px;
+    background-color: #E9ECEF;
+    border-radius: 5px;
+}
+.menu2{
+    padding: 11px;
+    background-color: #E9ECEF;
+    border-radius: 5px;
+}
+/* breadcum and toast section end */
+
+/* carousel section starts */
+
+.section3 img{
+    height: 512px;
+    width: auto;
+}
+
+/* carousel section end */
+
+/* alerts section starts */
+.section3{
+    padding: 100px 0;
+}
+.alertsx{
+
+}
+.alertsx h1{
+    font-size: 24px;
+}
+.alertsx p{}
+/* alerts section end */
+
+/* progress bar section starts */
+.progress{}
+
+.pad{
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.pad1{
+    margin-top: 20px;
+}
+/* progress bar section end */
+/*  according section starts*/
+ .buton::after{
+     display: none;
+ }
+/*  according section end*/
+
+/* modal and tooltips starts */
+.section5{
+ padding: 100px 0;
+}
+.tool{
+    width: 800px;
+  margin: auto;
+  margin-left: 213px;
+}
+.model{
+    margin-left: 40px;
+}
+/* modal and tooltips end */
+/* scroll spy section starts */
+
+ .menu3 ul li a:hover{
+     background-color: #007BFF;
+ }
+/* scroll spy section end */
+
+/* pagination sstarts */
+.page{
+    margin-left: 530px
+}
+
+.menux{
+ margin-left: 100px;
+}
+/* pagination end */
+
+/* footer */
+footer{
+    padding: 20px 0;
+    background-color: #17A2B8;
+}
+footer p{
+     text-align: center;
+     color: white;
+}
